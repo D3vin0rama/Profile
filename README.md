@@ -11,9 +11,9 @@ I'm transitioning from a robust background in restaurant operations to a career 
 - **Soft:** Problem-Solving, Project Management, Client-Centric Approach, Communication
 
 ## Projects
-- [Manager Impact Evaluation Tool](https://github.com/YourUsername/Manager-Impact-Evaluation-Tool)
-- [Budgeting and Forecasting Tool](https://github.com/YourUsername/Budgeting-and-Forecasting-Tool)
-- [Staffing Tracker](https://github.com/YourUsername/Staffing-Tracker)
+- [Manager Impact Evaluation Tool](https://docs.google.com/spreadsheets/d/17HxE4xHriJd0L32m9S6EwWk8vyPU0FKH6Kh9RQa-1lc/edit?usp=sharing)
+- [Budgeting and Forecasting Tool](https://docs.google.com/spreadsheets/d/1ZEsTwTgXMLYNM82XoCYs9xqfMSQ7Z3YKh1ZPaaITBiw/edit?usp=sharing)
+- [Staffing Tracker](https://docs.google.com/spreadsheets/d/1DcsLwLW4eaibW0TjJgbVqMYRf5bNe_JD_tv83MwHFHw/edit?usp=sharing)
 
 ## Education and Certifications
 - BS in Business Administration, University of Redlands, 2002
