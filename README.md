@@ -10,6 +10,13 @@ I'm transitioning from a robust background in restaurant operations to a career 
 - **Technical:** Python, R, SQL, Tableau, Google Suite, Excel, Salesforce
 - **Soft:** Problem-Solving, Project Management, Client-Centric Approach, Communication
 
+
+## Professional Background
+- **Restaurant Operations:** 15 years restaurant operations and management.  
+- **Project Management:** 5 years project managemnt in the restaurant and retail industry 
+- **Event Production:** 6 years planning and managing events in Corporate and Intertainment settings
+- **Retail:** 7 years management and visual merchandising
+  
 ## Projects
 - [Manager Impact Evaluation Tool](https://docs.google.com/spreadsheets/d/17HxE4xHriJd0L32m9S6EwWk8vyPU0FKH6Kh9RQa-1lc/edit?usp=sharing)
 - [Budgeting and Forecasting Tool](https://docs.google.com/spreadsheets/d/1ZEsTwTgXMLYNM82XoCYs9xqfMSQ7Z3YKh1ZPaaITBiw/edit?usp=sharing)
