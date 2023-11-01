@@ -28,7 +28,7 @@ I'm transitioning from a robust background in restaurant operations to a career 
 - Python for Data Analytics, University of Michigan via Coursera, 2023
 - Google Data Analytics Certificate, Coursera, 2023
 
-[View my full resume][DevinCurry_Resume.pdf](https://github.com/D3vin0rama/Profile/files/13229888/DevinCurry_Resume.pdf)
+[View my full resume][DevinCurry_Resume.pdf](https://github.com/D3vin0rama/Profile/blob/main/DevinCurry_Resume.pdf)
 
 
 Feel free to explore my projects and reach out if you'd like to collaborate or chat!
