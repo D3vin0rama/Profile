@@ -14,7 +14,7 @@ I'm transitioning from a robust background in restaurant operations to a career 
 ## Professional Background
 - **Restaurant Operations:** 15 years restaurant operations and management.  
 - **Project Management:** 5 years project managemnt in the restaurant and retail industry 
-- **Event Production:** 6 years planning and managing events in Corporate and Intertainment settings
+- **Event Production:** 6 years planning and managing events in Corporate and Entertainment settings
 - **Retail:** 7 years management and visual merchandising
   
 ## Projects
